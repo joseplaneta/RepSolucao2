@@ -5,6 +5,7 @@ namespace Proj2 {
         static void Main(string[] args) {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World_2!");
+            Console.WriteLine("Hello World_3!");
         }
     }
 }
